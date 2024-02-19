@@ -51,3 +51,13 @@ components streamlit : --> https://components.streamlit.app
 
 
 ----
+
+### app_dataframe_pagination.py
+
+<p align="center">
+    <img src="./gambar-petunjuk/ss_003.png" alt="003" style="display: block; margin: 0 auto;">
+</p>
+
+<p align="center">
+    <img src="./gambar-petunjuk/ss_004.png" alt="004" style="display: block; margin: 0 auto;">
+</p>

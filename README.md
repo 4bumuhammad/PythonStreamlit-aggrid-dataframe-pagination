@@ -1,3 +1,6 @@
+<p align="center">
+    <img src="./gambar-petunjuk/streamlit_logo.png" alt="streamlit_logo" style="display: block; margin: 0 auto;">
+</p>
 
 
 ### References : 

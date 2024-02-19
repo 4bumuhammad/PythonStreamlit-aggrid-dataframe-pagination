@@ -36,6 +36,15 @@ components streamlit : --> https://components.streamlit.app
 
 ---
 
+### app_aggrid_pagination.py
+
 <p align="center">
-    <img src="./ss_app_aggrid_pagination.png" alt="ss_app_aggrid_pagination" style="display: block; margin: 0 auto;">
+    <img src="./gambar-petunjuk/ss_001.png" alt="001" style="display: block; margin: 0 auto;">
 </p>
+
+<p align="center">
+    <img src="./gambar-petunjuk/ss_002.png" alt="002" style="display: block; margin: 0 auto;">
+</p>
+
+
+----
